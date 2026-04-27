@@ -1,0 +1,6 @@
+youtube-transcript-api
+ytfetcher
+fastapi
+uvicorn[standard]
+httpx
+python-dotenv
